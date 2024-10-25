@@ -21,3 +21,4 @@ Purpose of this Capstone Project is to Build a Recommendation Sysem based on Mov
 4. recommendation-system-git.md\
      a) Data Science Report. (Markdown for Github Format)
 
+[Your PDF File](https://github.com/alexwmlab/harvard-recommendation-system/recommendation-system.pdf
